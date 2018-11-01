@@ -1,2 +1,2 @@
-# Rapport_De_Stage_Licence_Génie_Electrique
+# Rapport_De_Stage_Licence_Genie_Electrique
 L’amélioration du fonctionnement d’encartonneuse PRODEC
